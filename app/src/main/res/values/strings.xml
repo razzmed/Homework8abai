@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework8abai</string>
+    <string name="nameBtn">Введите число</string>
+    <string name="min">Меньше</string>
+    <string name="max">Больше</string>
+    <string name="bingo">Угадали!</string>
+    <string name="replay">Введите еще раз</string>
+    <string name="find_number">Угадайте число от 1 до 100</string>
+    <string name="wrong">Не правильный ввод</string>
+</resources>
